@@ -4,6 +4,9 @@ Professional ChatGPT image generation skill for Hermes Agent.
 
 Hermes Agent 的 ChatGPT 图片生成 skill，支持通过已登录的 Chromium 系浏览器调用 ChatGPT 网页生成图片，并下载原始图片文件。
 
+<img width="1320" height="2024" alt="15a1c54345ab9e4b71906bf41f700bad" src="https://github.com/user-attachments/assets/25a1464a-a840-47f8-9310-fcf06563b7a7" />
+
+
 ## Features / 功能
 - Generate images through ChatGPT web UI.
 - Download original images instead of screenshots.
